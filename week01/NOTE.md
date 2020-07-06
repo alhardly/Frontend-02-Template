@@ -47,26 +47,24 @@
 
 ### 成就
 
-- 业务型成就：
+- 业务型成就:
   ![](./img/business-achievements.png)
-  <!-- <img src="./img/business-achievements.png"> -->
   理解公司的核心业务目标。
   懂业务，做业务，并把公司业务落到技术方案上面去。
 
-- 工程型成就
+- 工程型成就   
   ![](./img/engineering-achievements.png)
-  <!-- <img src="./img/engineering-achievements.png"> -->
-  
-- 技术难题
+
+- 技术难题   
   ![](./img/technical-problems.png)
-  <!-- <img src="./img/technical-problems.png"> -->
+
 
 ## 前端进阶之路
 
 ### 前端技术模型
 
 ![](./img/technology-model.png)
-<!-- <img src="./img/technology-model.png"> -->
+
 
 ## 学习方法
 
@@ -75,14 +73,13 @@
 寻求知识的完备性
 
 ![](./img/arrangement-method.png)
-<!-- <img src="./img/arrangement-method.png"> -->
 
 ### 追溯法
 
 寻求知识的准确性,遇到不懂的概念，最好就是利用追溯法去学习。
 
 ![](../week01/img/retrospective-method.png)
-<!-- <img src="./img/retrospective-method.png"> -->
+
 
 ## 书籍
 
